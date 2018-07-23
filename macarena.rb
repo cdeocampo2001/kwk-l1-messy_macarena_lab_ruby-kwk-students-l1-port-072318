@@ -13,3 +13,4 @@ def macarena
   puts "Left arm, left hip"
   puts "ayyyyyyyyyy macarena(turn)"
 end 
+macarena
